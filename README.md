@@ -2,7 +2,7 @@
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning GCP Ops
 - 💞️ I’m looking to collaborate on Life
-- 📫 How to reach me mailto:avgs@zemosolabs.com
+- 📫 How to reach me avgs@zemosolabs.com
 
 <!---
 avgs-zemoso/avgs-zemoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
